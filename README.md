@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Amit Kumar Yadav 👋
 
-<!--
-**amityadav44/amityadav44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Software Engineer | CSE Student
 
-Here are some ideas to get you started:
+I'm passionate about software development, problem-solving, and building real-world applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Interested in Software Engineering and Backend Development
+- 🌱 Learning Java, DSA,MYSQL and Agentic AI
+- 🐍 Experienced with Python fundamentals
+- 🚀 Building practical projects and improving my coding skills
+- 🎯 Aspiring to work with top product-based tech companies
+
+### 🛠️ Tech Stack
+
+- **Languages:** Java, Python, C, SQL,Statistic
+- **Web:** HTML, CSS, JavaScript
+- **Database:** MySQL
+- **Core Subjects:** DSA, OOPs, DBMS, Operating Systems,Computer Network
+- **Tools:** Git, GitHub, VS Code, IntelliJ IDEA, Jupyter Notebook
+
+### 🤝 Connect With Me
+
+- GitHub: [@amityadav44](https://github.com/amityadav44)
+- LinkedIn:[ www.linkedin.com/in/amitkumaryadav44](https://www.linkedin.com/in/amitkumaryadav44/)
+
+---
+
+⭐ Thanks for visiting my profile!
